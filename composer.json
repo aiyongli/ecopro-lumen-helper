@@ -1,0 +1,20 @@
+{
+    "name": "aiyongli/ecopro-lumen-helper",
+    "description": "ecopro php lumen helper library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liaiyong",
+            "email": "aiyong.li@ecoprobio.cn"
+        }
+    ],
+    "autoload": {
+        "files" : [
+            "src/helpers.php"
+        ]
+    },
+    "autoload-dev": {
+    },
+    "require": {
+    }
+}
